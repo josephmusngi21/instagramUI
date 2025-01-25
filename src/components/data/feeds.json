@@ -1,0 +1,64 @@
+[
+    {
+        "user": "john_doe",
+        "likes": 120,
+        "comments": [
+            {
+                "user": "jane_smith",
+                "comment": "Great post!",
+                "time": "2023-10-01T12:34:56Z"
+            },
+            {
+                "user": "alex_jones",
+                "comment": "Nice picture!",
+                "time": "2023-10-01T13:45:12Z"
+            }
+        ],
+        "time": "2023-10-01T10:00:00Z"
+    },
+    {
+        "user": "emily_clark",
+        "likes": 85,
+        "comments": [
+            {
+                "user": "michael_brown",
+                "comment": "Amazing!",
+                "time": "2023-10-02T14:23:45Z"
+            }
+        ],
+        "time": "2023-10-02T09:30:00Z"
+    },
+    {
+        "user": "sarah_lee",
+        "likes": 200,
+        "comments": [],
+        "time": "2023-10-03T08:15:00Z"
+    },
+    {
+        "user": "david_wilson",
+        "likes": 150,
+        "comments": [
+            {
+                "user": "linda_johnson",
+                "comment": "Love this!",
+                "time": "2023-10-04T11:22:33Z"
+            },
+            {
+                "user": "chris_martin",
+                "comment": "So cool!",
+                "time": "2023-10-04T12:34:56Z"
+            },
+            {
+                "user": "patricia_taylor",
+                "comment": "Awesome!",
+                "time": "2023-10-04T13:45:12Z"
+            },
+            {
+                "user": "robert_anderson",
+                "comment": "Fantastic!",
+                "time": "2023-10-04T14:56:23Z"
+            }
+        ],
+        "time": "2023-10-04T10:00:00Z"
+    }
+]
